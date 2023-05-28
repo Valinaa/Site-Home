@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "iconfont";
+	font-display: auto;
+	src: url("/assets/iconfont/iconfont.eot?t=1684979873240"); /* IE9 */
+	/* IE6-IE8 */
+	src: url("/assets/iconfont/iconfont.eot?t=1684979873240#iefix")
+			format("embedded-opentype"),
+		url("/assets/iconfont/iconfont.woff2?t=1684979873240") format("woff2"),
+		url("/assets/iconfont/iconfont.woff?t=1684979873240") format("woff"),
+		/* IE9+,Firefox3.5+,Chrome4+,Safari3+,Opera10+,iOS Mobile Safari4.2+ */
+			url("/assets/iconfont/iconfont.ttf?t=1684979873240") format("truetype"),
+		/* Chrome4+,Safari3.1+,Opera10.0+,iOS Mobile Safari3.2+ */
+			url("/assets/iconfont/iconfont.svg?t=1684979873240#iconfont")
+			format("svg");
+}
+
+.icon {
+	display: block;
+	width: 1.5em;
+	height: 1.5em;
+	margin: 0 auto;
+	fill: currentColor;
+	font-family: "iconfont" !important;
+	font-size: inherit;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+	content: "\e728";
+}
+
+.icon-ziwojieshao:before {
+	content: "\e7cf";
+}
+
+.icon-icon:before {
+	content: "\e66c";
+}
+
+.icon-wenzhangfenlei:before {
+	content: "\e6c6";
+}
+
+.icon-linggan:before {
+	content: "\e6a2";
+}

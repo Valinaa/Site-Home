@@ -1,0 +1,49 @@
+{
+	"name": "site-home-page",
+	"version": "1.0.0",
+	"author": {
+		"name": "Valinaa",
+		"email": "EcustCK@163.com",
+		"url": "https://github.com/Valinaa"
+	},
+	"license": "LGPI-3.0",
+	"homepage": "http://www.valinaa-wei.tech",
+	"repository": "https://github.com/Valinaa/Site-Home",
+	"bugs": "https://github.com/Valinaa/Site-Home/issues",
+	"description": "Site-Home",
+	"type": "module",
+	"scripts": {
+		"predev": "gulp build",
+		"dev": "gulp watch",
+		"build": "gulp build"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.4.4",
+		"@babel/preset-env": "^7.4.4",
+		"@babel/register": "^7.21.0",
+		"babel-core": "^6.26.3",
+		"babel-preset-env": "^1.7.0",
+		"del": "^7.0.0",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-clean-css": "^4.2.0",
+		"gulp-connect": "^5.7.0",
+		"gulp-htmlclean": "^2.7.22",
+		"gulp-htmlmin": "^5.0.1",
+		"gulp-pug": "^5.0.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-uglify": "^3.0.2",
+		"node-sass": "^9.0.0"
+	},
+	"browserslist": [
+		"last 2 version",
+		"> 1%",
+		"not ie 11",
+		"supports es6-module",
+		"maintained node versions",
+		"not dead"
+	],
+	"dependencies": {
+		"browserslist": "^4.21.5"
+	}
+}

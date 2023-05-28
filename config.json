@@ -1,0 +1,50 @@
+{
+	"head": {
+		"title": "一般有趣的灵魂",
+		"description": "Author:Valinaa,Category:Personal Blog",
+		"favicon": "assets/favicon.png"
+	},
+	"intro": {
+		"title": "Valinaa Chan",
+		"subtitle": "Less get, but still do MORE!",
+		"enter": "Enter",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "Valinaa Chan",
+		"signature": "Data & Code & Discovery",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "105"
+		},
+		"ul": {
+			"first": {
+				"href": "intro/",
+				"icon": "ziwojieshao",
+				"text": "Intro"
+			},
+			"second": {
+				"href": "blog/",
+				"icon": "wenzhangfenlei",
+				"text": "Blog"
+			},
+			"third": {
+				"href": "muse/",
+				"icon": "linggan",
+				"text": "Muse"
+			},
+			"fourth": {
+				"href": "life/",
+				"icon": "icon",
+				"text": "Life"
+			},
+			"fifth": {
+				"href": "https://github.com/Valinaa",
+				"icon": "github",
+				"text": "Github"
+			}
+		}
+	}
+}
