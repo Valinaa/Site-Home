@@ -8,7 +8,7 @@
 				h1(data-translate="name") #{main.name}
 				h2#signature(data-translate="signature") #{main.signature}
 
-			- const { first , second , third, fourth, fifth } = main.ul
+			- const { first , second , third, fourth, fifth, sixth } = main.ul
 			ul
 				li
 					a(href=`${first.href}` aria-label=`${first.text}`)
@@ -33,3 +33,7 @@
 					a(href=`${fifth.href}` aria-label=`${fifth.text}` target="_blank")
 						i(class=`icon icon-${fifth.icon}`)
 						span(data-translate=`${fifth.text}`) #{fifth.text}
+				li
+					a(href=`${sixth.href}` aria-label=`${sixth.text}` target="_blank")
+						i(class=`icon icon-${sixth.icon}`)
+						span(data-translate=`${sixth.text}`) #{sixth.text}

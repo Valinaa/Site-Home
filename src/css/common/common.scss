@@ -29,6 +29,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-touch-callout: none;
+	cursor: url("/assets/default.cur"), auto !important;
 }
 
 ul {
@@ -39,10 +40,6 @@ ul {
 img {
 	border: 0;
 	vertical-align: middle;
-}
-
-body {
-	cursor: url("/assets/default.cur"), auto !important;
 }
 
 img,

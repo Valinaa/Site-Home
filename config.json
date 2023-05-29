@@ -21,26 +21,31 @@
 		},
 		"ul": {
 			"first": {
-				"href": "intro/",
+				"href": "https://main.valinaa-wei.tech/",
+				"icon": "zhuye2",
+				"text": "Main"
+			},
+			"second": {
+				"href": "https://main.valinaa-wei.tech/intro/",
 				"icon": "ziwojieshao",
 				"text": "Intro"
 			},
-			"second": {
-				"href": "blog/",
+			"third": {
+				"href": "https://main.valinaa-wei.tech/blog/",
 				"icon": "wenzhangfenlei",
 				"text": "Blog"
 			},
-			"third": {
-				"href": "muse/",
+			"fourth": {
+				"href": "https://main.valinaa-wei.tech/muse/",
 				"icon": "linggan",
 				"text": "Muse"
 			},
-			"fourth": {
-				"href": "life/",
+			"fifth": {
+				"href": "https://main.valinaa-wei.tech/life/",
 				"icon": "icon",
 				"text": "Life"
 			},
-			"fifth": {
+			"sixth": {
 				"href": "https://github.com/Valinaa",
 				"icon": "github",
 				"text": "Github"
