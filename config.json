@@ -26,22 +26,22 @@
 				"text": "Main"
 			},
 			"second": {
-				"href": "https://main.valinaa-wei.tech/intro/",
+				"href": "https://intro.valinaa-wei.tech/",
 				"icon": "ziwojieshao",
 				"text": "Intro"
 			},
 			"third": {
-				"href": "https://main.valinaa-wei.tech/blog/",
+				"href": "https://blog.valinaa-wei.tech/",
 				"icon": "wenzhangfenlei",
 				"text": "Blog"
 			},
 			"fourth": {
-				"href": "https://main.valinaa-wei.tech/muse/",
+				"href": "https://muse.valinaa-wei.tech/",
 				"icon": "linggan",
 				"text": "Muse"
 			},
 			"fifth": {
-				"href": "https://main.valinaa-wei.tech/life/",
+				"href": "https://life.valinaa-wei.tech/",
 				"icon": "icon",
 				"text": "Life"
 			},
